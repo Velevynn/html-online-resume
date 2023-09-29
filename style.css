@@ -44,3 +44,9 @@ hr {
     margin-bottom: 8px;
     border-bottom: 1px solid black
 }
+
+footer p {
+    display: flex;
+    justify-content: right;
+    padding-right: 2rem;
+}
